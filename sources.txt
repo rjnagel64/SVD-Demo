@@ -3,11 +3,14 @@
 # Frankenstein; or, the Modern Prometheus
 http://www.gutenberg.org/files/84/84-0.txt
 frankenstein.txt
+29 7457
 
 # The Tragical History of Dr. Faustus
 http://www.gutenberg.org/cache/epub/779/pg779.txt
 doctor_faustus.txt
+25 2152
 
 # Hamlet
 http://www.gutenberg.org/files/1524/1524-0.txt
 hamlet.txt
+30 4710
